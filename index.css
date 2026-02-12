@@ -1,0 +1,37 @@
+body{
+     border-style: groove;
+     border-width:5px;
+     border-color: rgb(5, 7, 7);
+     border-radius: 12px;
+     margin: 25;
+}
+.three{
+    margin-left: 5px;
+}
+#one{
+    margin-left: 25px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    font-size: 25px;
+}
+.four{
+    margin-left: 5px;
+}
+.five{
+    margin-left: 5px;
+}
+.six{
+    margin-left: 5px;
+}
+.seven{
+    margin-left: 5px;
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+
